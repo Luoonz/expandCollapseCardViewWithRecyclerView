@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">expandandcollapsecardviewWithRecyclerView</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer
+        took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,
+        but also the leap into electronic typesetting, remaining essentially unchanged.
+        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        Why do we use it?</string>
+
+    <string-array name="people">
+        <item>단군 할아버지</item>
+        <item>동명왕</item>
+        <item>은조왕</item>
+        <item>혁거세</item>
+        <item>광개토대왕</item>
+        <item>이사부</item>
+        <item>백결선생</item>
+        <item>의자왕</item>
+        <item>계백</item>
+        <item>관창</item>
+        <item>김유신</item>
+        <item>문무왕</item>
+        <item>원효대사</item>
+        <item>장보고</item>
+        <item>대조영</item>
+        <item>강감찬</item>
+        <item>서희</item>
+        <item>정중부</item>
+        <item>최무선</item>
+        <item>김부식</item>
+    </string-array>
+
+    <string-array name="descript">
+        <item>단군 할아버지2</item>
+        <item>동명왕2</item>
+        <item>은조왕2</item>
+        <item>혁거세2</item>
+        <item>광개토대왕2</item>
+        <item>이사부2</item>
+        <item>백결선생</item>
+        <item>의자왕</item>
+        <item>계백</item>
+        <item>관창</item>
+        <item>김유신</item>
+        <item>문무왕</item>
+        <item>원효대사</item>
+        <item>장보고</item>
+        <item>대조영</item>
+        <item>강감찬</item>
+        <item>서희</item>
+        <item>정중부</item>
+        <item>최무선</item>
+        <item>김부식</item>
+    </string-array>
+</resources>
